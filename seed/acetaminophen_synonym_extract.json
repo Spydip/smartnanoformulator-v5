@@ -1,0 +1,25 @@
+{
+  "source_system": "PubChem",
+  "source_id": "1983",
+  "record_kind": "synonym_extract",
+  "record_url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/1983/synonyms/JSON",
+  "retrieved_at": "2026-11-17T12:51:15+00:00",
+  "licence_note": "PubChem integrates third-party sources; retain source attribution and check source-specific reuse terms. This is a curated excerpt, not the complete synonym response.",
+  "source_label": "Selected exact synonym strings extracted from PubChem compound CID 1983. The live response contained 1,716 synonym strings; only the four listed names are retained in this resolver seed.",
+  "raw_response_excerpt": {
+    "InformationList": {
+      "Information": [
+        {
+          "CID": 1983,
+          "Synonym": ["Paracetamol", "APAP", "Tylenol", "Panadol"]
+        }
+      ]
+    }
+  },
+  "aliases": [
+    {"alias": "Paracetamol", "alias_type": "source_synonym"},
+    {"alias": "APAP", "alias_type": "source_synonym"},
+    {"alias": "Tylenol", "alias_type": "source_synonym"},
+    {"alias": "Panadol", "alias_type": "source_synonym"}
+  ]
+}

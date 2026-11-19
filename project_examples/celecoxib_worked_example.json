@@ -1,0 +1,23 @@
+{
+  "case_id": "celecoxib-topical-worked-example",
+  "source_document": "SmartNanoFormulator_workflow_bw.pdf",
+  "source_page": 2,
+  "user_request": {
+    "drug": "Celecoxib",
+    "route": "Topical skin delivery",
+    "desired_release_goal": "65% at 24 hours"
+  },
+  "machine_learning_branch": {
+    "status": "Withheld",
+    "reason": "Drug-loaded models failed to improve on the study-held-out median. New-batch entrapment and release estimates were withheld."
+  },
+  "literature_branch": {
+    "carrier_candidate": "Tween 20 ethosome",
+    "batch": "F",
+    "measured_entrapment": "54.4%",
+    "citation": "Bragagni et al. (2012), Table 2",
+    "doi": "10.3109/10717544.2012.724472"
+  },
+  "final_decision": "Show the cited ethosome candidate and its observed entrapment. The requested 24-hour release target remains unresolved.",
+  "important_note": "This is a project-supplied worked example transcribed from the uploaded workflow PDF. It is not represented as a record from the CSV database shipped in the original ZIP."
+}

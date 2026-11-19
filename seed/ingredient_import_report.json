@@ -1,0 +1,109 @@
+{
+  "categories": {
+    "amino_acid_sports": {
+      "distinct_entities": 58,
+      "pending_review_targets": 60,
+      "statuses": {
+        "ambiguous_external": 1,
+        "resolved_existing": 60
+      },
+      "targets": 61,
+      "verified_entities": 0,
+      "verified_share": 0.0
+    },
+    "botanical_phytochemical": {
+      "distinct_entities": 108,
+      "pending_review_targets": 109,
+      "statuses": {
+        "ambiguous_external": 2,
+        "no_single_compound_expected": 4,
+        "resolved_existing": 109
+      },
+      "targets": 115,
+      "verified_entities": 0,
+      "verified_share": 0.0
+    },
+    "catalogue_batch": {
+      "distinct_entities": 41,
+      "pending_review_targets": 46,
+      "statuses": {
+        "local_alias_ambiguous": 9,
+        "no_single_compound_expected": 36,
+        "not_found": 36,
+        "resolved_existing": 46
+      },
+      "targets": 127,
+      "verified_entities": 0,
+      "verified_share": 0.0
+    },
+    "mineral": {
+      "distinct_entities": 45,
+      "pending_review_targets": 45,
+      "statuses": {
+        "no_single_compound_expected": 1,
+        "resolved_existing": 45
+      },
+      "targets": 46,
+      "verified_entities": 0,
+      "verified_share": 0.0
+    },
+    "other": {
+      "distinct_entities": 42,
+      "pending_review_targets": 50,
+      "statuses": {
+        "ambiguous_external": 2,
+        "no_single_compound_expected": 5,
+        "not_found": 1,
+        "product_candidates": 2,
+        "resolved_existing": 48
+      },
+      "targets": 58,
+      "verified_entities": 0,
+      "verified_share": 0.0
+    },
+    "vitamin": {
+      "distinct_entities": 41,
+      "pending_review_targets": 44,
+      "statuses": {
+        "ambiguous_external": 2,
+        "no_single_compound_expected": 4,
+        "resolved_existing": 44
+      },
+      "targets": 50,
+      "verified_entities": 0,
+      "verified_share": 0.0
+    }
+  },
+  "database_seed": "/home/ubuntu/work/smartnano-v5/smartnano.db",
+  "duplicate_flags": 16,
+  "finished_at": "2026-11-17T12:49:05+00:00",
+  "formulation_batches_added": 0,
+  "formulation_batches_after": 1087,
+  "formulation_batches_before": 1087,
+  "historical_batch_names_normalized": 115,
+  "historical_batch_names_raw": 127,
+  "ingredient_records_added": 294,
+  "ingredient_records_at_import_restart": 358,
+  "ingredient_records_baseline_v4_profiles": 64,
+  "ingredient_records_total": 358,
+  "ingredient_records_without_single_compound_source_mw": 0,
+  "ingredient_records_without_source_mw": 37,
+  "preflight_limited": false,
+  "review_queue_items": 107,
+  "run_id": "6ebe75eef94aaaccd1d46316",
+  "seed_sha256": "6ebe75eef94aaaccd1d46316975c068c997a89fb74c5383b38e2bda4f9ee333c",
+  "source_terms": {
+    "DSLD": "https://dsld.od.nih.gov/about",
+    "DailyMed": "https://dailymed.nlm.nih.gov/dailymed/about-dailymed.cfm",
+    "PubChem": "https://pubchem.ncbi.nlm.nih.gov/docs/data-sources",
+    "RxNorm": "https://lhncbc.nlm.nih.gov/RxNav/TermsofService.html",
+    "openFDA": "https://open.fda.gov/terms/"
+  },
+  "started_at": "2026-11-17T12:27:37+00:00",
+  "target_csv": "seed/ingredient_targets.csv",
+  "target_csv_sha256": "cd0e2839772662c5a6c3c67cf2fb466eca2f62ec04b4a33a171bcd8536e4da78",
+  "targets_total": 457,
+  "unique_entities_touched": 322,
+  "verified_entities": 0,
+  "verified_share": 0.0
+}

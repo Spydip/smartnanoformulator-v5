@@ -1,0 +1,331 @@
+category,name,material_type,scope_note
+vitamin,ascorbic acid,single_compound,Resolver target only; not a verified chemical identity.
+vitamin,L-ascorbic acid,single_compound,Resolver target only; not a verified chemical identity.
+vitamin,dehydroascorbic acid,single_compound,Resolver target only; not a verified chemical identity.
+vitamin,cholecalciferol,single_compound,Resolver target only; not a verified chemical identity.
+vitamin,ergocalciferol,single_compound,Resolver target only; not a verified chemical identity.
+vitamin,Vitamin D3,single_compound,Resolver target only; not a verified chemical identity.
+vitamin,calcifediol,single_compound,Resolver target only; not a verified chemical identity.
+vitamin,calcitriol,single_compound,Resolver target only; not a verified chemical identity.
+vitamin,retinol,single_compound,Resolver target only; not a verified chemical identity.
+vitamin,retinal,single_compound,Resolver target only; not a verified chemical identity.
+vitamin,retinoic acid,single_compound,Resolver target only; not a verified chemical identity.
+vitamin,beta-carotene,single_compound,Resolver target only; not a verified chemical identity.
+vitamin,alpha-tocopherol,single_compound,Resolver target only; not a verified chemical identity.
+vitamin,alpha-tocopherol acetate,single_compound,Resolver target only; not a verified chemical identity.
+vitamin,gamma-tocopherol,single_compound,Resolver target only; not a verified chemical identity.
+vitamin,delta-tocopherol,single_compound,Resolver target only; not a verified chemical identity.
+vitamin,alpha-tocotrienol,single_compound,Resolver target only; not a verified chemical identity.
+vitamin,gamma-tocotrienol,single_compound,Resolver target only; not a verified chemical identity.
+vitamin,thiamine,single_compound,Resolver target only; not a verified chemical identity.
+vitamin,thiamine pyrophosphate,single_compound,Resolver target only; not a verified chemical identity.
+vitamin,riboflavin,single_compound,Resolver target only; not a verified chemical identity.
+vitamin,flavin mononucleotide,single_compound,Resolver target only; not a verified chemical identity.
+vitamin,flavin adenine dinucleotide,single_compound,Resolver target only; not a verified chemical identity.
+vitamin,niacin,single_compound,Resolver target only; not a verified chemical identity.
+vitamin,nicotinic acid,single_compound,Resolver target only; not a verified chemical identity.
+vitamin,nicotinamide,single_compound,Resolver target only; not a verified chemical identity.
+vitamin,nicotinamide riboside,single_compound,Resolver target only; not a verified chemical identity.
+vitamin,nicotinamide mononucleotide,single_compound,Resolver target only; not a verified chemical identity.
+vitamin,pantothenic acid,single_compound,Resolver target only; not a verified chemical identity.
+vitamin,calcium pantothenate,single_compound,Resolver target only; not a verified chemical identity.
+vitamin,pyridoxine,single_compound,Resolver target only; not a verified chemical identity.
+vitamin,pyridoxal,single_compound,Resolver target only; not a verified chemical identity.
+vitamin,pyridoxamine,single_compound,Resolver target only; not a verified chemical identity.
+vitamin,pyridoxal 5-phosphate,single_compound,Resolver target only; not a verified chemical identity.
+vitamin,biotin,single_compound,Resolver target only; not a verified chemical identity.
+vitamin,folic acid,single_compound,Resolver target only; not a verified chemical identity.
+vitamin,folinic acid,single_compound,Resolver target only; not a verified chemical identity.
+vitamin,levomefolate,single_compound,Resolver target only; not a verified chemical identity.
+vitamin,cyanocobalamin,single_compound,Resolver target only; not a verified chemical identity.
+vitamin,methylcobalamin,single_compound,Resolver target only; not a verified chemical identity.
+vitamin,hydroxocobalamin,single_compound,Resolver target only; not a verified chemical identity.
+vitamin,adenosylcobalamin,single_compound,Resolver target only; not a verified chemical identity.
+vitamin,phylloquinone,single_compound,Resolver target only; not a verified chemical identity.
+vitamin,menaquinone-4,single_compound,Resolver target only; not a verified chemical identity.
+vitamin,menaquinone-7,single_compound,Resolver target only; not a verified chemical identity.
+vitamin,para-aminobenzoic acid,single_compound,Resolver target only; not a verified chemical identity.
+mineral,zinc,single_compound,Resolver target only; not a verified chemical identity.
+mineral,magnesium,single_compound,Resolver target only; not a verified chemical identity.
+mineral,iron,single_compound,Resolver target only; not a verified chemical identity.
+mineral,selenium,single_compound,Resolver target only; not a verified chemical identity.
+mineral,calcium,single_compound,Resolver target only; not a verified chemical identity.
+mineral,copper,single_compound,Resolver target only; not a verified chemical identity.
+mineral,iodine,single_compound,Resolver target only; not a verified chemical identity.
+mineral,chromium,single_compound,Resolver target only; not a verified chemical identity.
+mineral,molybdenum,single_compound,Resolver target only; not a verified chemical identity.
+mineral,manganese,single_compound,Resolver target only; not a verified chemical identity.
+mineral,phosphorus,single_compound,Resolver target only; not a verified chemical identity.
+mineral,potassium,single_compound,Resolver target only; not a verified chemical identity.
+mineral,sodium,single_compound,Resolver target only; not a verified chemical identity.
+mineral,chloride,single_compound,Resolver target only; not a verified chemical identity.
+mineral,fluoride,single_compound,Resolver target only; not a verified chemical identity.
+mineral,cobalt,single_compound,Resolver target only; not a verified chemical identity.
+mineral,boron,single_compound,Resolver target only; not a verified chemical identity.
+mineral,silicon,single_compound,Resolver target only; not a verified chemical identity.
+mineral,vanadium,single_compound,Resolver target only; not a verified chemical identity.
+mineral,nickel,single_compound,Resolver target only; not a verified chemical identity.
+mineral,sulfur,single_compound,Resolver target only; not a verified chemical identity.
+mineral,lithium,single_compound,Resolver target only; not a verified chemical identity.
+mineral,strontium,single_compound,Resolver target only; not a verified chemical identity.
+mineral,barium,single_compound,Resolver target only; not a verified chemical identity.
+mineral,germanium,single_compound,Resolver target only; not a verified chemical identity.
+mineral,tin,single_compound,Resolver target only; not a verified chemical identity.
+mineral,calcium carbonate,single_compound,Resolver target only; not a verified chemical identity.
+mineral,calcium citrate,single_compound,Resolver target only; not a verified chemical identity.
+mineral,calcium phosphate,single_compound,Resolver target only; not a verified chemical identity.
+mineral,calcium lactate,single_compound,Resolver target only; not a verified chemical identity.
+mineral,zinc gluconate,single_compound,Resolver target only; not a verified chemical identity.
+mineral,zinc sulfate,single_compound,Resolver target only; not a verified chemical identity.
+mineral,zinc citrate,single_compound,Resolver target only; not a verified chemical identity.
+mineral,zinc picolinate,single_compound,Resolver target only; not a verified chemical identity.
+mineral,magnesium oxide,single_compound,Resolver target only; not a verified chemical identity.
+mineral,magnesium citrate,single_compound,Resolver target only; not a verified chemical identity.
+mineral,magnesium sulfate,single_compound,Resolver target only; not a verified chemical identity.
+mineral,magnesium chloride,single_compound,Resolver target only; not a verified chemical identity.
+mineral,magnesium malate,single_compound,Resolver target only; not a verified chemical identity.
+mineral,ferrous sulfate,single_compound,Resolver target only; not a verified chemical identity.
+mineral,ferrous fumarate,single_compound,Resolver target only; not a verified chemical identity.
+mineral,ferric citrate,single_compound,Resolver target only; not a verified chemical identity.
+mineral,potassium iodide,single_compound,Resolver target only; not a verified chemical identity.
+mineral,sodium selenite,single_compound,Resolver target only; not a verified chemical identity.
+mineral,sodium molybdate,single_compound,Resolver target only; not a verified chemical identity.
+amino_acid_sports,glycine,single_compound,Resolver target only; not a verified chemical identity.
+amino_acid_sports,L-alanine,single_compound,Resolver target only; not a verified chemical identity.
+amino_acid_sports,L-arginine,single_compound,Resolver target only; not a verified chemical identity.
+amino_acid_sports,L-asparagine,single_compound,Resolver target only; not a verified chemical identity.
+amino_acid_sports,L-aspartic acid,single_compound,Resolver target only; not a verified chemical identity.
+amino_acid_sports,L-cysteine,single_compound,Resolver target only; not a verified chemical identity.
+amino_acid_sports,L-glutamic acid,single_compound,Resolver target only; not a verified chemical identity.
+amino_acid_sports,L-glutamine,single_compound,Resolver target only; not a verified chemical identity.
+amino_acid_sports,L-histidine,single_compound,Resolver target only; not a verified chemical identity.
+amino_acid_sports,L-isoleucine,single_compound,Resolver target only; not a verified chemical identity.
+amino_acid_sports,L-leucine,single_compound,Resolver target only; not a verified chemical identity.
+amino_acid_sports,L-lysine,single_compound,Resolver target only; not a verified chemical identity.
+amino_acid_sports,L-methionine,single_compound,Resolver target only; not a verified chemical identity.
+amino_acid_sports,L-phenylalanine,single_compound,Resolver target only; not a verified chemical identity.
+amino_acid_sports,L-proline,single_compound,Resolver target only; not a verified chemical identity.
+amino_acid_sports,L-serine,single_compound,Resolver target only; not a verified chemical identity.
+amino_acid_sports,L-threonine,single_compound,Resolver target only; not a verified chemical identity.
+amino_acid_sports,L-tryptophan,single_compound,Resolver target only; not a verified chemical identity.
+amino_acid_sports,L-tyrosine,single_compound,Resolver target only; not a verified chemical identity.
+amino_acid_sports,L-valine,single_compound,Resolver target only; not a verified chemical identity.
+amino_acid_sports,beta-alanine,single_compound,Resolver target only; not a verified chemical identity.
+amino_acid_sports,creatine,single_compound,Resolver target only; not a verified chemical identity.
+amino_acid_sports,creatine monohydrate,single_compound,Resolver target only; not a verified chemical identity.
+amino_acid_sports,taurine,single_compound,Resolver target only; not a verified chemical identity.
+amino_acid_sports,L-carnitine,single_compound,Resolver target only; not a verified chemical identity.
+amino_acid_sports,acetyl-L-carnitine,single_compound,Resolver target only; not a verified chemical identity.
+amino_acid_sports,L-theanine,single_compound,Resolver target only; not a verified chemical identity.
+amino_acid_sports,L-citrulline,single_compound,Resolver target only; not a verified chemical identity.
+amino_acid_sports,L-ornithine,single_compound,Resolver target only; not a verified chemical identity.
+amino_acid_sports,hydroxyproline,single_compound,Resolver target only; not a verified chemical identity.
+amino_acid_sports,trans-4-hydroxy-L-proline,single_compound,Resolver target only; not a verified chemical identity.
+amino_acid_sports,cystine,single_compound,Resolver target only; not a verified chemical identity.
+amino_acid_sports,gamma-aminobutyric acid,single_compound,Resolver target only; not a verified chemical identity.
+amino_acid_sports,beta-hydroxy-beta-methylbutyrate,single_compound,Resolver target only; not a verified chemical identity.
+amino_acid_sports,N-acetyl-L-tyrosine,single_compound,Resolver target only; not a verified chemical identity.
+amino_acid_sports,N-acetyl-L-cysteine,single_compound,Resolver target only; not a verified chemical identity.
+amino_acid_sports,N-acetyl-L-glutamine,single_compound,Resolver target only; not a verified chemical identity.
+amino_acid_sports,N-acetyl-L-phenylalanine,single_compound,Resolver target only; not a verified chemical identity.
+amino_acid_sports,5-hydroxytryptophan,single_compound,Resolver target only; not a verified chemical identity.
+amino_acid_sports,S-adenosyl-L-methionine,single_compound,Resolver target only; not a verified chemical identity.
+amino_acid_sports,creatinol-O-phosphate,single_compound,Resolver target only; not a verified chemical identity.
+amino_acid_sports,L-lysine hydrochloride,single_compound,Resolver target only; not a verified chemical identity.
+amino_acid_sports,L-arginine hydrochloride,single_compound,Resolver target only; not a verified chemical identity.
+amino_acid_sports,L-histidine hydrochloride,single_compound,Resolver target only; not a verified chemical identity.
+amino_acid_sports,L-ornithine hydrochloride,single_compound,Resolver target only; not a verified chemical identity.
+amino_acid_sports,L-carnitine tartrate,single_compound,Resolver target only; not a verified chemical identity.
+amino_acid_sports,creatine citrate,single_compound,Resolver target only; not a verified chemical identity.
+amino_acid_sports,betaine,single_compound,Resolver target only; not a verified chemical identity.
+amino_acid_sports,phosphocreatine,single_compound,Resolver target only; not a verified chemical identity.
+amino_acid_sports,inosine,single_compound,Resolver target only; not a verified chemical identity.
+amino_acid_sports,carnosine,single_compound,Resolver target only; not a verified chemical identity.
+amino_acid_sports,anserine,single_compound,Resolver target only; not a verified chemical identity.
+amino_acid_sports,D-aspartic acid,single_compound,Resolver target only; not a verified chemical identity.
+amino_acid_sports,D-serine,single_compound,Resolver target only; not a verified chemical identity.
+amino_acid_sports,D-alanine,single_compound,Resolver target only; not a verified chemical identity.
+amino_acid_sports,D-phenylalanine,single_compound,Resolver target only; not a verified chemical identity.
+amino_acid_sports,L-homocysteine,single_compound,Resolver target only; not a verified chemical identity.
+amino_acid_sports,L-norvaline,single_compound,Resolver target only; not a verified chemical identity.
+amino_acid_sports,L-norleucine,single_compound,Resolver target only; not a verified chemical identity.
+amino_acid_sports,L-alpha-aminobutyric acid,single_compound,Resolver target only; not a verified chemical identity.
+amino_acid_sports,L-2-aminobutyric acid,single_compound,Resolver target only; not a verified chemical identity.
+botanical_phytochemical,curcumin,single_compound,Resolver target only; not a verified chemical identity.
+botanical_phytochemical,resveratrol,single_compound,Resolver target only; not a verified chemical identity.
+botanical_phytochemical,quercetin,single_compound,Resolver target only; not a verified chemical identity.
+botanical_phytochemical,berberine,single_compound,Resolver target only; not a verified chemical identity.
+botanical_phytochemical,epigallocatechin gallate,single_compound,Resolver target only; not a verified chemical identity.
+botanical_phytochemical,6-gingerol,single_compound,Resolver target only; not a verified chemical identity.
+botanical_phytochemical,apigenin,single_compound,Resolver target only; not a verified chemical identity.
+botanical_phytochemical,astaxanthin,single_compound,Resolver target only; not a verified chemical identity.
+botanical_phytochemical,coenzyme Q10,single_compound,Resolver target only; not a verified chemical identity.
+botanical_phytochemical,luteolin,single_compound,Resolver target only; not a verified chemical identity.
+botanical_phytochemical,kaempferol,single_compound,Resolver target only; not a verified chemical identity.
+botanical_phytochemical,myricetin,single_compound,Resolver target only; not a verified chemical identity.
+botanical_phytochemical,fisetin,single_compound,Resolver target only; not a verified chemical identity.
+botanical_phytochemical,naringenin,single_compound,Resolver target only; not a verified chemical identity.
+botanical_phytochemical,hesperetin,single_compound,Resolver target only; not a verified chemical identity.
+botanical_phytochemical,hesperidin,single_compound,Resolver target only; not a verified chemical identity.
+botanical_phytochemical,rutin,single_compound,Resolver target only; not a verified chemical identity.
+botanical_phytochemical,chrysin,single_compound,Resolver target only; not a verified chemical identity.
+botanical_phytochemical,baicalein,single_compound,Resolver target only; not a verified chemical identity.
+botanical_phytochemical,baicalin,single_compound,Resolver target only; not a verified chemical identity.
+botanical_phytochemical,genistein,single_compound,Resolver target only; not a verified chemical identity.
+botanical_phytochemical,daidzein,single_compound,Resolver target only; not a verified chemical identity.
+botanical_phytochemical,formononetin,single_compound,Resolver target only; not a verified chemical identity.
+botanical_phytochemical,puerarin,single_compound,Resolver target only; not a verified chemical identity.
+botanical_phytochemical,nobiletin,single_compound,Resolver target only; not a verified chemical identity.
+botanical_phytochemical,tangeretin,single_compound,Resolver target only; not a verified chemical identity.
+botanical_phytochemical,catechin,single_compound,Resolver target only; not a verified chemical identity.
+botanical_phytochemical,epicatechin,single_compound,Resolver target only; not a verified chemical identity.
+botanical_phytochemical,epigallocatechin,single_compound,Resolver target only; not a verified chemical identity.
+botanical_phytochemical,epicatechin gallate,single_compound,Resolver target only; not a verified chemical identity.
+botanical_phytochemical,gallic acid,single_compound,Resolver target only; not a verified chemical identity.
+botanical_phytochemical,ellagic acid,single_compound,Resolver target only; not a verified chemical identity.
+botanical_phytochemical,caffeic acid,single_compound,Resolver target only; not a verified chemical identity.
+botanical_phytochemical,ferulic acid,single_compound,Resolver target only; not a verified chemical identity.
+botanical_phytochemical,p-coumaric acid,single_compound,Resolver target only; not a verified chemical identity.
+botanical_phytochemical,sinapic acid,single_compound,Resolver target only; not a verified chemical identity.
+botanical_phytochemical,rosmarinic acid,single_compound,Resolver target only; not a verified chemical identity.
+botanical_phytochemical,chlorogenic acid,single_compound,Resolver target only; not a verified chemical identity.
+botanical_phytochemical,protocatechuic acid,single_compound,Resolver target only; not a verified chemical identity.
+botanical_phytochemical,syringic acid,single_compound,Resolver target only; not a verified chemical identity.
+botanical_phytochemical,vanillic acid,single_compound,Resolver target only; not a verified chemical identity.
+botanical_phytochemical,gentisic acid,single_compound,Resolver target only; not a verified chemical identity.
+botanical_phytochemical,salicylic acid,single_compound,Resolver target only; not a verified chemical identity.
+botanical_phytochemical,eugenol,single_compound,Resolver target only; not a verified chemical identity.
+botanical_phytochemical,isoeugenol,single_compound,Resolver target only; not a verified chemical identity.
+botanical_phytochemical,thymol,single_compound,Resolver target only; not a verified chemical identity.
+botanical_phytochemical,carvacrol,single_compound,Resolver target only; not a verified chemical identity.
+botanical_phytochemical,anethole,single_compound,Resolver target only; not a verified chemical identity.
+botanical_phytochemical,cinnamaldehyde,single_compound,Resolver target only; not a verified chemical identity.
+botanical_phytochemical,vanillin,single_compound,Resolver target only; not a verified chemical identity.
+botanical_phytochemical,gingerol,single_compound,Resolver target only; not a verified chemical identity.
+botanical_phytochemical,zingerone,single_compound,Resolver target only; not a verified chemical identity.
+botanical_phytochemical,6-shogaol,single_compound,Resolver target only; not a verified chemical identity.
+botanical_phytochemical,piperine,single_compound,Resolver target only; not a verified chemical identity.
+botanical_phytochemical,allicin,single_compound,Resolver target only; not a verified chemical identity.
+botanical_phytochemical,diallyl disulfide,single_compound,Resolver target only; not a verified chemical identity.
+botanical_phytochemical,sulforaphane,single_compound,Resolver target only; not a verified chemical identity.
+botanical_phytochemical,indole-3-carbinol,single_compound,Resolver target only; not a verified chemical identity.
+botanical_phytochemical,"3,3'-diindolylmethane",single_compound,Resolver target only; not a verified chemical identity.
+botanical_phytochemical,lycopene,single_compound,Resolver target only; not a verified chemical identity.
+botanical_phytochemical,lutein,single_compound,Resolver target only; not a verified chemical identity.
+botanical_phytochemical,zeaxanthin,single_compound,Resolver target only; not a verified chemical identity.
+botanical_phytochemical,beta-cryptoxanthin,single_compound,Resolver target only; not a verified chemical identity.
+botanical_phytochemical,canthaxanthin,single_compound,Resolver target only; not a verified chemical identity.
+botanical_phytochemical,fucoxanthin,single_compound,Resolver target only; not a verified chemical identity.
+botanical_phytochemical,crocin,single_compound,Resolver target only; not a verified chemical identity.
+botanical_phytochemical,crocetin,single_compound,Resolver target only; not a verified chemical identity.
+botanical_phytochemical,glycyrrhetinic acid,single_compound,Resolver target only; not a verified chemical identity.
+botanical_phytochemical,glycyrrhizin,single_compound,Resolver target only; not a verified chemical identity.
+botanical_phytochemical,silybin,single_compound,Resolver target only; not a verified chemical identity.
+botanical_phytochemical,silychristin,single_compound,Resolver target only; not a verified chemical identity.
+botanical_phytochemical,ursolic acid,single_compound,Resolver target only; not a verified chemical identity.
+botanical_phytochemical,oleanolic acid,single_compound,Resolver target only; not a verified chemical identity.
+botanical_phytochemical,betulinic acid,single_compound,Resolver target only; not a verified chemical identity.
+botanical_phytochemical,asiatic acid,single_compound,Resolver target only; not a verified chemical identity.
+botanical_phytochemical,madecassic acid,single_compound,Resolver target only; not a verified chemical identity.
+botanical_phytochemical,ginsenoside Rb1,single_compound,Resolver target only; not a verified chemical identity.
+botanical_phytochemical,ginsenoside Rg1,single_compound,Resolver target only; not a verified chemical identity.
+botanical_phytochemical,ginsenoside Re,single_compound,Resolver target only; not a verified chemical identity.
+botanical_phytochemical,ginsenoside Rd,single_compound,Resolver target only; not a verified chemical identity.
+botanical_phytochemical,ginsenoside Rg3,single_compound,Resolver target only; not a verified chemical identity.
+botanical_phytochemical,ginsenoside Rh2,single_compound,Resolver target only; not a verified chemical identity.
+botanical_phytochemical,tanshinone IIA,single_compound,Resolver target only; not a verified chemical identity.
+botanical_phytochemical,tanshinone I,single_compound,Resolver target only; not a verified chemical identity.
+botanical_phytochemical,cryptotanshinone,single_compound,Resolver target only; not a verified chemical identity.
+botanical_phytochemical,artemisinin,single_compound,Resolver target only; not a verified chemical identity.
+botanical_phytochemical,andrographolide,single_compound,Resolver target only; not a verified chemical identity.
+botanical_phytochemical,withaferin A,single_compound,Resolver target only; not a verified chemical identity.
+botanical_phytochemical,withanolide A,single_compound,Resolver target only; not a verified chemical identity.
+botanical_phytochemical,piperlongumine,single_compound,Resolver target only; not a verified chemical identity.
+botanical_phytochemical,evodiamine,single_compound,Resolver target only; not a verified chemical identity.
+botanical_phytochemical,rutaecarpine,single_compound,Resolver target only; not a verified chemical identity.
+botanical_phytochemical,honokiol,single_compound,Resolver target only; not a verified chemical identity.
+botanical_phytochemical,magnolol,single_compound,Resolver target only; not a verified chemical identity.
+botanical_phytochemical,hyperoside,single_compound,Resolver target only; not a verified chemical identity.
+botanical_phytochemical,isoquercitrin,single_compound,Resolver target only; not a verified chemical identity.
+botanical_phytochemical,nicotiflorin,single_compound,Resolver target only; not a verified chemical identity.
+botanical_phytochemical,diosmetin,single_compound,Resolver target only; not a verified chemical identity.
+botanical_phytochemical,diosmin,single_compound,Resolver target only; not a verified chemical identity.
+botanical_phytochemical,genistin,single_compound,Resolver target only; not a verified chemical identity.
+botanical_phytochemical,daidzin,single_compound,Resolver target only; not a verified chemical identity.
+botanical_phytochemical,dihydroquercetin,single_compound,Resolver target only; not a verified chemical identity.
+botanical_phytochemical,phloretin,single_compound,Resolver target only; not a verified chemical identity.
+botanical_phytochemical,phloridzin,single_compound,Resolver target only; not a verified chemical identity.
+botanical_phytochemical,morin,single_compound,Resolver target only; not a verified chemical identity.
+botanical_phytochemical,isorhamnetin,single_compound,Resolver target only; not a verified chemical identity.
+botanical_phytochemical,sulfuretin,single_compound,Resolver target only; not a verified chemical identity.
+botanical_phytochemical,baicalein-7-O-glucuronide,single_compound,Resolver target only; not a verified chemical identity.
+botanical_phytochemical,wogonin,single_compound,Resolver target only; not a verified chemical identity.
+botanical_phytochemical,wogonoside,single_compound,Resolver target only; not a verified chemical identity.
+botanical_phytochemical,rotenone,single_compound,Resolver target only; not a verified chemical identity.
+other,melatonin,single_compound,Resolver target only; not a verified chemical identity.
+other,choline,single_compound,Resolver target only; not a verified chemical identity.
+other,choline chloride,single_compound,Resolver target only; not a verified chemical identity.
+other,choline bitartrate,single_compound,Resolver target only; not a verified chemical identity.
+other,alpha-lipoic acid,single_compound,Resolver target only; not a verified chemical identity.
+other,R-alpha-lipoic acid,single_compound,Resolver target only; not a verified chemical identity.
+other,S-adenosylmethionine,single_compound,Resolver target only; not a verified chemical identity.
+other,inositol,single_compound,Resolver target only; not a verified chemical identity.
+other,myo-inositol,single_compound,Resolver target only; not a verified chemical identity.
+other,D-ribose,single_compound,Resolver target only; not a verified chemical identity.
+other,phosphatidylserine,single_compound,Resolver target only; not a verified chemical identity.
+other,ubiquinol,single_compound,Resolver target only; not a verified chemical identity.
+other,ergothioneine,single_compound,Resolver target only; not a verified chemical identity.
+other,paraxanthine,single_compound,Resolver target only; not a verified chemical identity.
+other,theobromine,single_compound,Resolver target only; not a verified chemical identity.
+other,theophylline,single_compound,Resolver target only; not a verified chemical identity.
+other,methylsulfonylmethane,single_compound,Resolver target only; not a verified chemical identity.
+other,D-mannose,single_compound,Resolver target only; not a verified chemical identity.
+other,N-acetylglucosamine,single_compound,Resolver target only; not a verified chemical identity.
+other,D-glucosamine hydrochloride,single_compound,Resolver target only; not a verified chemical identity.
+other,glucosamine sulfate,single_compound,Resolver target only; not a verified chemical identity.
+other,acetylsalicylic acid,single_compound,Resolver target only; not a verified chemical identity.
+other,adenosine,single_compound,Resolver target only; not a verified chemical identity.
+other,adenine,single_compound,Resolver target only; not a verified chemical identity.
+other,adenosine monophosphate,single_compound,Resolver target only; not a verified chemical identity.
+other,adenosine diphosphate,single_compound,Resolver target only; not a verified chemical identity.
+other,adenosine triphosphate,single_compound,Resolver target only; not a verified chemical identity.
+other,uridine,single_compound,Resolver target only; not a verified chemical identity.
+other,cytidine,single_compound,Resolver target only; not a verified chemical identity.
+other,inosine monophosphate,single_compound,Resolver target only; not a verified chemical identity.
+other,NAD+,single_compound,Resolver target only; not a verified chemical identity.
+other,NADH,single_compound,Resolver target only; not a verified chemical identity.
+other,nicotinamide adenine dinucleotide phosphate,single_compound,Resolver target only; not a verified chemical identity.
+other,creatine phosphate,single_compound,Resolver target only; not a verified chemical identity.
+other,D-pantethine,single_compound,Resolver target only; not a verified chemical identity.
+other,pantethine,single_compound,Resolver target only; not a verified chemical identity.
+other,D-chiro-inositol,single_compound,Resolver target only; not a verified chemical identity.
+other,alpha-glycerophosphocholine,single_compound,Resolver target only; not a verified chemical identity.
+other,citicoline,single_compound,Resolver target only; not a verified chemical identity.
+other,CDP-choline,single_compound,Resolver target only; not a verified chemical identity.
+other,L-ergothioneine,single_compound,Resolver target only; not a verified chemical identity.
+other,pyrroloquinoline quinone,single_compound,Resolver target only; not a verified chemical identity.
+other,PQQ disodium salt,single_compound,Resolver target only; not a verified chemical identity.
+other,spermidine,single_compound,Resolver target only; not a verified chemical identity.
+other,spermine,single_compound,Resolver target only; not a verified chemical identity.
+other,putrescine,single_compound,Resolver target only; not a verified chemical identity.
+other,betaine anhydrous,single_compound,Resolver target only; not a verified chemical identity.
+other,trimethylglycine,single_compound,Resolver target only; not a verified chemical identity.
+other,L-5-methyltetrahydrofolate,single_compound,Resolver target only; not a verified chemical identity.
+other,L-cysteine sulfinic acid,single_compound,Resolver target only; not a verified chemical identity.
+other,D-glucaric acid,single_compound,Resolver target only; not a verified chemical identity.
+vitamin,Vitamin C,vitamin_family,Label can denote different forms; resolve the form before assigning a single MW.
+vitamin,Vitamin D,vitamin_family,Family name; D2 and D3 are separate compounds.
+vitamin,Vitamin E,vitamin_family,Family name; do not assign a single molecular weight.
+vitamin,Vitamin B12,vitamin_family,Family name; ask which cobalamin form.
+mineral,magnesium glycinate,chelate,Chelate/form identity can vary; no parent MW inheritance.
+botanical_phytochemical,turmeric extract,extract,Plant extract; no single molecular weight; marker compounds are separate rows.
+botanical_phytochemical,turmeric,extract,Common botanical name; extract is not a defined compound and has no single molecular weight.
+botanical_phytochemical,ashwagandha extract,extract,Plant extract; no single molecular weight; marker compounds are separate rows.
+botanical_phytochemical,ashwagandha,extract,Common botanical name; extract is not a defined compound and has no single molecular weight.
+other,omega-3,mixture,"Mixture; EPA, DHA and other constituents remain distinct compounds."
+other,fish oil,mixture,Product mixture; no single molecular weight.
+other,collagen peptides,polymer,Polymer/peptide distribution; no single molecular weight.
+other,hyaluronic acid,polymer,Polymer with a molecular-weight range; no single value.
+other,probiotics,non_chemical,"Biological category, not a single chemical compound."
+other,Tylenol,product,Brand/product lookup only; keep product separate from active ingredient.
+other,Panadol,product,Brand/product lookup only; only link an active ingredient when a source does.

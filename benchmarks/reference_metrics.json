@@ -1,0 +1,9 @@
+{
+  "source": "User-supplied SmartNanoFormulator abstract",
+  "status": "reported benchmark context only; not executable in this app build",
+  "dataset": "928 screened microfluidic liposome runs",
+  "validation": "grouped cross-validation, as stated in the abstract",
+  "particle_size_mae_nm": {"model": 17.42, "median_baseline": 46.35},
+  "pdi_mae": {"model": 0.0376, "median_baseline": 0.0518},
+  "drug_loaded_models": "Matched or underperformed the median baseline across endpoints in study-held-out evaluation"
+}

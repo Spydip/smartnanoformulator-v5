@@ -1,0 +1,27 @@
+{
+  "source": "SmartNanoFormulator local literature catalogue; conservative explicit-label extraction",
+  "reviewed": "2026-11",
+  "status": "provisional prior calibration, not supervised training data",
+  "size_base_nm": {"Liposome": 128, "Niosome": 216, "Transfersome": 190, "Ethosome": 207, "Phytosome": 250},
+  "pdi_base_fraction": {"Liposome": 0.21, "Niosome": 0.26, "Transfersome": 0.27, "Ethosome": 0.29, "Phytosome": 0.30},
+  "parseable_counts": {
+    "Liposome": {"size_batches": 184, "size_papers": 41, "pdi_batches": 166, "pdi_papers": 35},
+    "Niosome": {"size_batches": 223, "size_papers": 25, "pdi_batches": 166, "pdi_papers": 25},
+    "Transfersome": {"size_batches": 207, "size_papers": 18},
+    "Ethosome": {"size_batches": 89, "size_papers": 13},
+    "Phytosome": {"size_batches": 8, "size_papers": 5, "pdi_batches": 4, "pdi_papers": 4}
+  },
+  "uncertainty_sd": {"size_log_sd": 0.5, "pdi": 0.14, "zeta_mv": 20.0, "ee_percentage_points": 30.0},
+  "extraction_policy": [
+    "Use only clearly labelled, parseable values",
+    "Exclude radii when diameter is needed",
+    "Exclude ambiguous measurement modalities and unlabelled values",
+    "Exclude PDI percentage text unless its meaning is explicitly defined as a fraction conversion",
+    "Do not treat these values as a clean ML training matrix"
+  ],
+  "notes": [
+    "Phytosome size and PDI anchors remain expert-informed due to sparse data",
+    "Zeta and EE point priors remain unchanged due to inconsistent signs, methods and sparse data",
+    "Most slopes, design bounds, carrier rankings and recipes remain expert judgement"
+  ]
+}

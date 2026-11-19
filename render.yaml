@@ -1,0 +1,34 @@
+services:
+  - type: web
+    name: smartnanoformulator-v5-free
+    runtime: docker
+    plan: free
+    region: frankfurt
+    healthCheckPath: /api/health
+    dockerfilePath: ./Dockerfile
+    dockerContext: .
+    envVars:
+      - key: SMARTNANO_DB
+        value: /tmp/smartnano.db
+      - key: SMARTNANO_HOST
+        value: 0.0.0.0
+      - key: APP_ACCESS_USER
+        value: mates
+      - key: APP_ACCESS_PASSWORD
+        sync: false
+      - key: LLM_ENABLED
+        value: "1"
+      - key: AI_PROVIDER
+        value: openrouter
+      - key: OPENROUTER_API_KEY
+        sync: false
+      - key: OPENROUTER_MODEL
+        value: openrouter/free
+      - key: OPENROUTER_BASE_URL
+        value: https://openrouter.ai/api/v1
+      - key: LLM_DAILY_REQUEST_LIMIT
+        value: "12"
+      - key: LLM_MONTHLY_SPEND_USD
+        value: "0.00"
+      - key: LLM_REQUEST_TIMEOUT_SECONDS
+        value: "45"
